@@ -1,4 +1,4 @@
-# smackphp http message package
+# Cubephp dependency injection packcage
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
@@ -12,7 +12,7 @@
 Via Composer
 
 ``` bash
-$ composer require smackphp/smack-http-message
+$ composer require cubephp/cube-di
 ```
 
 ## Usage
@@ -47,17 +47,17 @@ If you discover any security related issues, please email security@smackphp.com 
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/smackphp/smack-http-message.svg
+[ico-version]: https://img.shields.io/packagist/v/cubephp/cube-di.svg
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/smackphp/smack-http-message/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/smackphp/smack-http-message.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/smackphp/smack-http-message.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/smackphp/smack-http-message.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/cubephp/cube-di/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/cubephp/cube-di.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/cubephp/cube-di.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/cubephp/cube-di.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/smackphp/smack-http-message
-[link-travis]: https://travis-ci.org/smackphp/smack-http-message
-[link-scrutinizer]: https://scrutinizer-ci.com/g/smackphp/smack-http-message/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/smackphp/smack-http-message
-[link-downloads]: https://packagist.org/packages/smackphp/smack-http-message
-[link-author]: https://github.com/smackphp
+[link-packagist]: https://packagist.org/packages/cubephp/cube-di
+[link-travis]: https://travis-ci.org/cubephp/cube-di
+[link-scrutinizer]: https://scrutinizer-ci.com/g/cubephp/cube-di/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/cubephp/cube-di
+[link-downloads]: https://packagist.org/packages/cubephp/cube-di
+[link-author]: https://github.com/cubephp
 [link-contributors]: ../../contributors
