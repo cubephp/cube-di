@@ -1,0 +1,27 @@
+{
+    "name": "cubephp/di",
+    "description": "cubephp dependency injection package",
+    "authors": [
+        {
+            "name": "Daniel Heath",
+            "email": "daniel@cubephp.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Cube\\Di\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "4.*",
+        "scrutinizer/ocular": "~1.1"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Cube\\Test\\Di\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit"
+    }
+}
